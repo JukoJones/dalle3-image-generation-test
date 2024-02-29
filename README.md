@@ -5,9 +5,9 @@
 ## Notes
 ---
 * Use Colab for best results.
-* An Open AI API key to required to use this notebook.
-* When using DALL·E 3, images can have a size of 1024x1024, 1024x1792 or 1792x1024 pixels.
-* DALL·E 3 Quality Settings: "hd" for enhanced detail.
+* An Open AI API key is required to use this notebook.
+* Images can have a size of 1024x1024, 1024x1792 or 1792x1024 pixels.
+* Quality Settings: "hd" for enhanced detail.
 * Square, standard quality images are the fastest to generate.
 
 ## Some Take Aways
