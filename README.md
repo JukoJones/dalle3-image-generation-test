@@ -1,6 +1,7 @@
 # DALL·E 3 Image Generation Test
 ---
-[Open AI Image Generation Docs](https://platform.openai.com/docs/guides/images/image-generation)
+- [Open AI Image Generation Docs](https://platform.openai.com/docs/guides/images/image-generation)
+- [Kaggle Version](https://www.kaggle.com/edwardrehr/dall-e-3-image-generation-kaggle-test) of this notebook
 
 ## Notes
 ---
