@@ -1,7 +1,7 @@
 # DALL·E 3 Image Generation Test
 ---
 - [Open AI Image Generation Docs](https://platform.openai.com/docs/guides/images/image-generation)
-- [Kaggle Version](https://www.kaggle.com/code/edwardrehr/let-me-see-your-peacock-dall-e-3-exploration/notebook) of this notebook
+- [Kaggle Version](https://www.kaggle.com/edwardrehr/let-me-see-your-peacock-dall-e-3-exploration) of this notebook
 
 ## General Notes
 ---
